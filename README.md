@@ -1,1 +1,1 @@
-# UdmCourseProjects
+# UdmJsCourseProjects
